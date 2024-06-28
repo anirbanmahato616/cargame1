@@ -1,5 +1,6 @@
 import java.util.*;
 //To push an element at the bottom of a stack
+//public class Question1
 public class Question1 {
     public static void pushAtBottom(Stack<Integer> s, int data) {
         if(s.isEmpty()) {
